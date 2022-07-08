@@ -311,11 +311,6 @@ class _vacaState extends State<vaca> {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Colors.grey[200],
-      appBar: AppBar(
-        title: Text("网络音频"),
-        centerTitle: true,
-        backgroundColor: Colors.redAccent,
-      ),
       body: Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
