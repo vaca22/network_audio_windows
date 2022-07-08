@@ -321,7 +321,7 @@ class _vacaState extends State<vaca> {
                 Column(
                   children: <Widget>[
                     Padding(
-                      padding: const EdgeInsets.fromLTRB(30, 10, 30, 0),
+                      padding: const EdgeInsets.fromLTRB(30, 30, 30, 0),
                       child: Row(
                         mainAxisAlignment: MainAxisAlignment.spaceAround,
                         children: [
